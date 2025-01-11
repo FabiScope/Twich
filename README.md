@@ -40,7 +40,7 @@
 </head>
 <body>
     <header>
-        <h1>Asido troleado por FabiScope XD</h1>
+        <h1>Asido troleado por FabiScope XD Es mentira negro feo jajajajajajajajaj aver de como reaccionabas </h1>
     </header>
     <div class="content">
         <h2>Twich Transferencia de 120 pesos</h2>
